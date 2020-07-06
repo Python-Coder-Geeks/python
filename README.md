@@ -2,4 +2,4 @@
 My experiments with python
 # *Learn Python - The ultimate Programming Language*
 
-![welcome to my world!](https://images.freeimages.com/images/large-previews/f3e/the-source-1464380.jpg)
+![welcome to the world of Python!](https://www.freepngimg.com/thumb/python_logo/4-2-python-logo-picture.png)

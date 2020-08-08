@@ -1,14 +1,7 @@
-print("Welcome to TeamAlphaCoders")
-print("Today, we are going to play the game Tic-Tac-Toe!") 
-theBoard = {'7': ' ' , '8': ' ' , '9': ' ' ,
-            '4': ' ' , '5': ' ' , '6': ' ' ,  
-            '1': ' ' , '2': ' ' , '3': ' ' }
-def printBoard(board):
-  print(board['7'] + '|' + board['8'] + '|' + board['9'])
-  print('-+-+-')
-  print(board['4'] + '|' + board['5'] + '|' + board['6'])
-  print('-+-+-')
-  print(board['1'] + '|' + board['2'] + '|' + board['3'])
-
-
-
+import time
+print("Hello Everyone!")
+time.sleep(1)
+print("This is TeamAlphaCoders")
+time.sleep(1)
+print("Today, we are going to play the game Tic-Tac-Toe.")
+time.sleep(1)

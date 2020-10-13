@@ -1,2 +1,0 @@
-- name: Setup gcloud environment
-  uses: GoogleCloudPlatform/github-actions@0.1.2
